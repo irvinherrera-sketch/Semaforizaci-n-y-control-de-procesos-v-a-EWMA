@@ -1,4 +1,4 @@
-# SDS Analytics – Semaforización EWMA y Diagnóstico Dimensional para METALSA
+# SDS Analytics – Semaforización EWMA y Diagnóstico Dimensional 
 
 Sistema automatizado de análisis estadístico y diagnóstico dimensional para procesos de **Try Out de chasis automotriz**, desarrollado para **METALSA**.
 
