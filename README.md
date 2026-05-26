@@ -1,6 +1,6 @@
 # SDS Analytics – Semaforización EWMA y Diagnóstico Dimensional 
 
-Sistema automatizado de análisis estadístico y diagnóstico dimensional para procesos de **Try Out de chasis automotriz**, desarrollado para **METALSA**.
+Sistema automatizado de análisis estadístico y diagnóstico dimensional para procesos de **Try Out de chasis automotriz**.
 
 El proyecto transforma reportes dimensionales complejos en información accionable mediante:
 - **Semaforización EWMA en tiempo real**
@@ -181,7 +181,7 @@ Acciones:
 ## 🚀 Flujo de uso
 
 1. Abrir archivo `.xlsm`
-2. Cargar reportes FARO / Frame Assy
+2. Cargar reportes 
 3. Presionar:
 
 ```txt
